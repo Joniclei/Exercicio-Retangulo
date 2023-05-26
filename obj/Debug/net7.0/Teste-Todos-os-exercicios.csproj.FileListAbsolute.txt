@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/bin/Debug/net7.0/Teste-Todos-os-exercicios
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/bin/Debug/net7.0/Teste-Todos-os-exercicios.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/bin/Debug/net7.0/Teste-Todos-os-exercicios.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/bin/Debug/net7.0/Teste-Todos-os-exercicios.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/bin/Debug/net7.0/Teste-Todos-os-exercicios.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/obj/Debug/net7.0/Teste-Todos-os-exercicios.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/obj/Debug/net7.0/Teste-Todos-os-exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/obj/Debug/net7.0/Teste-Todos-os-exercicios.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/obj/Debug/net7.0/Teste-Todos-os-exercicios.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/obj/Debug/net7.0/Teste-Todos-os-exercicios.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/obj/Debug/net7.0/Teste-Todos-os-exercicios.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/obj/Debug/net7.0/refint/Teste-Todos-os-exercicios.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/obj/Debug/net7.0/Teste-Todos-os-exercicios.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/obj/Debug/net7.0/Teste-Todos-os-exercicios.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Teste-Todos-os-exercicios/obj/Debug/net7.0/ref/Teste-Todos-os-exercicios.dll
